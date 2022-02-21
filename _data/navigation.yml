@@ -1,0 +1,10 @@
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Archive
+  url: /archive/
+- title: Download
+  url: https://github.com/rkuo2000/MCU-course/archive/refs/heads/master.zip
+- title: GitHub
+  url: https://github.com/rkuo2000/MCU-course
