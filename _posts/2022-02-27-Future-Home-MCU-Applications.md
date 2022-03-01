@@ -31,7 +31,7 @@ This homework is to specify a Future Home application and describe the key featu
   - Draw a System Block Diagram
 
 ---
-## 家傭飛行機器人
+## 家用飛行機器人
 ### 應用功能說明
 1. 居家監控：外出時可隨時查看家裡各處狀況
 2. 環境監測：溫濕度感測+瓦斯偵測+空氣品質偵測 
@@ -82,7 +82,7 @@ This homework is to specify a Future Home application and describe the key featu
    - 任務規劃與控制: Mission Planner with Floorplan
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_greenhouse_gardener.png?raw=true)
+![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_greenhouse_keeper.png?raw=true)
 
 ---
 ## 組合式食物料理機
