@@ -60,7 +60,7 @@ App Inventor consists of the Designer and the Blocks Editor.
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/AppInventor2_BLE2RC_Blocks.png?raw=true)
 
 ---
-### Example: [BT_KBM](https://github.com/rkuo2000/MCU-course/blob/main/files/BT_KBM.aia)
+### [Homework]: [BT_KBM](https://github.com/rkuo2000/MCU-course/blob/main/files/BT_KBM.aia)
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/AppInventor2_BT_KBM_Designer.png?raw=true)
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/AppInventor2_BT_KBM_Blocks.png?raw=true)
 
