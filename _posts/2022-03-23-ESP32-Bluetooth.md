@@ -34,7 +34,8 @@ The core protocols form a five-layer stack consisting of the following elements:
 
 ---
 ### [Host Controller Interface (HCI)](https://www.amd.e-technik.uni-rostock.de/ma/gol/lectures/wirlec/bluetooth_info/hci.html)
-     The HCI provides a command interface to the baseband controller and link manager, and access to hardware status and control registers. Essentially this interface provides a uniform method of accessing the Bluetooth baseband capabilities.The HCI exists across 3 sections, the Host - Transport Layer - Host Controller. Each of the sections has a different role to play in the HCI system.
+
+     The HCI provides a command interface to the baseband controller and link manager, and access to hardware status and control registers. Essentially this interface provides a uniform method of accessing the Bluetooth baseband capabilities.The HCI exists across 3 sections, the Host - Transport Layer - Host Controller. Each of the sections has a different role to play in the HCI system.<br>
 Bluetooth-defined Host Controller Transport Layers: **UART(H4)**, **USB**, **SPI**, **H3/RS232**.<br>
 
 ---
