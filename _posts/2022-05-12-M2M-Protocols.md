@@ -137,7 +137,9 @@ Examples>CoAP simple library>esp32
 
 ### [Homework]: ESP32_adafruit_HTU21.ino / _DHT11.ino
 [ESP32_DHT11.ino](https://github.com/rkuo2000/arduino/blob/master/examples/ESP32/ESP32_DHT11/ESP32_DHT11.ino)<br>
+![](https://github.com/rkuo2000/MCU-course/blob/main/images/Example_DHT11.png?raw=true)
 [ESP32_HTU21DF.ino](https://github.com/rkuo2000/arduino/blob/master/examples/ESP32/ESP32_HTU21DF/ESP32_HTU21DF.ino)<br>
+![](https://github.com/rkuo2000/MCU-course/blob/main/images/Example_HTU21.png?raw=true)
 * ESP32 with HTU21D/DHT11 update humidity & temperature to io.adafruit.com/yourname
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Sketch_ESP32_adafruitio_DHT11_monitor.png?raw=true)
 * io.adafruit.com/yourname/feeds/humidity
