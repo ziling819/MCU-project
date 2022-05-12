@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MCU Future Home Applications (Homework)
+title: MCU Future Home Applications
 author: [Richard Kuo]
 category: [Lecture]
 tags: [jekyll, ai]
