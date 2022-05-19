@@ -136,6 +136,7 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Example_ESP32_MPU6050.jpg?raw=true)
 
 ### Examples>MPU6050> MPU6050_DMP6_using_DMP_V6v12
+* install [processing]()
 * #define OUTPUT_TEAPOT
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Examples_MPU6050_DMP6_using_DMP_V6v12.png?raw=true)
 * Arduino/libraries/MPU6050/MPU6050_DMP6_using_DMP_V6v12/MPUplane/MPUPlane.pde
@@ -143,7 +144,8 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 
 ### Sketchbook>MPU6050_DMP_Teapot
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Sketch_MPU6050_DMP_Teapot.png?raw=true)
-* Install Processing 4.0b7
+* download [Processing 4.0b7](https://processing.org/download) & install
+  - Tools> add Tool> Library> Toxi
 * Click MPU6050Teapot.pde to run
 
 ---
