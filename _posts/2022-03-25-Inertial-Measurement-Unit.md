@@ -138,7 +138,7 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 ### Examples>MPU6050> MPU6050_DMP6_using_DMP_V6v12
 * #define OUTPUT_TEAPOT
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Examples_MPU6050_DMP6_using_DMP_V6v12.png?raw=true)
-* Examples>MPU6050> MPU6050_DMP6_using_DMP_V6v12>MPUPlane.pde
+* Arduino/libraries/MPU6050/MPU6050_DMP6_using_DMP_V6v12/MPUplane/MPUPlane.pde
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Examples_MPU6050_DMP6_using_DMP_V6v12_pde.png?raw=true)
 
 ### Sketchbook>MPU6050_DMP_Teapot
