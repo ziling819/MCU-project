@@ -180,6 +180,7 @@ compAngleY = 0.97 * (compAngleY + gyroYrate * dt) + 0.03 * accY;
 * **Kalman Filter**<br>
 [Kalman.cpp](https://github.com/rkuo2000/arduino/blob/master/examples/IMU/MPU6050_KalmanFilter/Kalman.cpp)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kalman-filter_en.svg/800px-Kalman-filter_en.svg.png?20160621130330)
+
 ```
 float Q_angle = 0.001f;
 float Q_bias = 0.003f;
@@ -279,5 +280,3 @@ float Kalman::getAngle(float newAngle, float newRate, float dt) {
 <br>
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
-
-
