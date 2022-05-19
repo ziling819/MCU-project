@@ -168,12 +168,12 @@ imu.getAcceleration(&accX, &accY, &accZ);
 
 ```
 // Calculate gyro angle without any filter
-gyroXangle += gyroXrate * dt; 
-gyroYangle += gyroYrate * dt;
+gyroXangle += gyroXrate * dt
+gyroYangle += gyroYrate * dt
 
 // Calculate the angle using a Complimentary filter
-compAngleX = 0.97 * (compAngleX + gyroXrate * dt) + 0.03 * accX; 
-compAngleY = 0.97 * (compAngleY + gyroYrate * dt) + 0.03 * accY;
+compAngleX = 0.97 * (compAngleX + gyroXrate * dt) + 0.03 * accXangle
+compAngleY = 0.97 * (compAngleY + gyroYrate * dt) + 0.03 * accYangle
 ```
 ![](http://www.pieter-jan.com/images/Complementary_Filter.png)
 
