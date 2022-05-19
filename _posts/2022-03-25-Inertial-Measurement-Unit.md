@@ -172,8 +172,8 @@ gyroXangle += gyroXrate * dt;
 gyroYangle += gyroYrate * dt;
 
 // Calculate the angle using a Complimentary filter
-compAngleX = 0.93 * (compAngleX + gyroXrate * dt) + 0.07 * roll; 
-compAngleY = 0.93 * (compAngleY + gyroYrate * dt) + 0.07 * pitch;
+compAngleX = 0.97 * (compAngleX + gyroXrate * dt) + 0.03 * accX; 
+compAngleY = 0.97 * (compAngleY + gyroYrate * dt) + 0.03 * accY;
 ```
 ![](http://www.pieter-jan.com/images/Complementary_Filter.png)
 
