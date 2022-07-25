@@ -57,7 +57,7 @@ a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-
 
 1. Download [Arduino IDE](https://www.arduino.cc/en/Main/Software), then Install on PC
 2. Run Arduino
-3. Files>Preferences>Setting> URLs = *`https://github.com/espressif/arduino-esp32/releases/download/2.0.2/package_esp32_index.json`*
+3. Files>Preferences>Setting> URLs = *`https://github.com/espressif/arduino-esp32/releases/download/2.0.0/package_esp32_index.json`*
 ![](https://makerpro.cc/wp-content/uploads/2020/06/11.png)
 4. Tools>Board>Board Managers>ESP32 Arduino> select `NodeMCU-32S`
 ![](https://makerpro.cc/wp-content/uploads/2020/06/13.png)
