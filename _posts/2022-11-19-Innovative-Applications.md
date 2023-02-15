@@ -9,6 +9,17 @@ tags: [jekyll, ai]
 Survey of Innovative Applications : 2022 Taiwan Innotech Expo, DIY projects, AIOT, Smart City, Smart Medical, AR/VR/MR & Holographics, Robots, and Innovative Sensories.
 
 ---
+## Contents:
+1. 2022 Taiwan Innotech Expo
+2. DIY projects
+3. AIOT
+4. Smart City
+5. Smart Medical
+6. AR/VR/MR & Holographics
+7. Robots
+8. Innovative Sensories.
+
+---
 ## [2022 Taiwan Innotech Expo](https://cloudcdn.taiwantradeshows.com.tw/2022/inst/showarea/index.html)
 
 ### [AIoT智慧應用](https://online.inventaipei.com.tw/zh-tw/vproduct/show-area/AIoT%E6%99%BA%E6%85%A7%E6%87%89%E7%94%A8/exh-list.html)
@@ -257,6 +268,19 @@ JetAuto Pro ROS Robot Car with Vision Robotic Arm Powered by Jetson Nano Support
 ### [植物的反撲？藝術家讓植栽控制握有砍刀的機械手臂](https://www.inside.com.tw/article/29190-david-bowen-plant-machete)
 ![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/obydgBehbWnS8zBugUisQ1OhrtG2VF2CSk0KZIIY.png?auto=compress&fit=max&w=730)
 如果讓植栽控制機械手臂，再讓機械手臂拿一把砍刀，會發生什麼事？專攻機器領域的藝術家 David Bowen，為了探究這個問題的答案，創造了裝置藝術作品「植栽砍刀」（Plant Machete）。
+
+---
+### [仿生撲翼飛行器大突破！一個關節零件解決飛行穩定問題](https://www.techbang.com/posts/103909-stability-flapping-wing-robots)
+研究人員透過以往的研究發現，固定角度的關節或者是沒有關節的機翼設計，撲翼機器人很難取得良好的飛行效果。像是機翼的角度設置為30度時，飛機撲個幾下就墜落了。<br>
+為了解決這些問題，研究人員提出了一個自由彈性關節的設計，其中偏角在向下和向上行程之間執行不對稱，進而（被動地）調節機翼面積，平滑地產生升力。 <br>
+![](https://cdn1.techbang.com/system/images/665374/original/ba084dedcf214526c426e3ce40eaa2a2.jpg?1675960431)
+
+研究人員認為，他們的工作主要體現在三個方面：<br>
+* 彈性關節的參數，這個彈性關節的各項參數可以用於各類的撲翼機器人，包括低雷諾資料和大拍打振幅的情況下； 
+* 對被動變形翼的約束性最佳化進行設計，包括彈簧的彈性、沿翼的位置和偏置彈簧角度等； 
+* 對整個機制在飛行中進行驗證，根據大型撲翼機器人的飛行資料，得出了平均升力的定量改進。
+
+<iframe width="992" height="595" src="https://www.youtube.com/embed/kwuW8cfy-MI" title="Optimal elastic wing for flapping-wing robots through passive morphing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## Innovative Sensory
