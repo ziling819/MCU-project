@@ -48,9 +48,6 @@ Survey of Innovative Applications : 2022 Taiwan Innotech Expo, DIY projects, AIO
 * 基於虛擬實境與擴增實境之上下肢協同復健外骨骼系統 (**國立中興大學**)
 ![](https://storage.googleapis.com/www.taiwantradeshow.com.tw/product/202209/T-38472980-S.jpg)
 
-* 吊掛示輪椅 (**國立勤益科大**)
-![](https://storage.googleapis.com/www.taiwantradeshow.com.tw/product/202209/T-07404827-S.jpg)
-
 * 運用眼動追蹤與人工智慧視覺辨識之3D列印義肢手臂 (**南台科大**)
 ![](https://storage.googleapis.com/www.taiwantradeshow.com.tw/product/202209/T-55242679-S.png)
 
