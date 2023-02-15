@@ -119,6 +119,10 @@ Use Your Smartphone As an Oscilloscope / Signal Generator<br>
 ---
 ## Smart City
 
+### [3D街頭暴力預警及AI情資整合偵蒐平臺](https://smartcity.org.tw/application_detail.php?id=105)
+全國首創以人工智慧物聯網（AIoT）構想，運用人工智慧(AI)影像辨識及聲音感應技術，並以本轄八大行業營業處所為實驗場域，結合物聯網(IoT)設備進行異常狀況分析，當偵測現場聚集人數達3人、持續停留30秒、聲音感測80分貝以上，提供主動預警通報，以利警方調度優勢警力迅速到場處理。
+
+---
 ### [Smart Sidewalk Protection](https://www.digitimes.com.tw/iot/article.asp?id=0000622764_6328VH1R5ED8SN5TK42KM)
 * 環保電動交通領域的領導廠商Bird日前宣布了由Bird首創的智能人行道保護技術。這項技術是由Bird和無線通信和定位技術及服務的全球領導廠商u-blox(SIX:UBXN)共同設計和開發，是一種感測器融合(sensor fusion)解決方案。整合於Bird電動車輛的智能人行道保護裝置，被用來防止微型交通設備騎行於人行道上。
 * 結合u-blox的ZED-F9R高精準度航位推測模組、公分等級人行道地圖，以及Bird的車載感測套件，此一整合系統可有效且高效率地即時偵測和防止人行道騎行。例如，相較於採用雲端地圖的傳統GPS，可能需要15秒以上的時間才會做出反應，Bird的新型智能人行道保護技術，可以讓進入人行道的車輛安全停下，同時允許騎士步行將車輛牽回車道或自行車道。
