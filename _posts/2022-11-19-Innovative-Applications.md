@@ -41,11 +41,11 @@ Survey of Innovative Applications : 2022 Taiwan Innotech Expo, DIY projects, AIO
 * 智慧盲人探測帽 (**啟英高中**)
 ![](https://storage.googleapis.com/www.taiwantradeshow.com.tw/product/202210/T-35612585-S.jpg)
 
-* 應力感應螺絲 (**國立高雄科技大學**)
+* 應力感應螺絲 (**國立高雄科技大學**)<br>
 ![](https://www.chanchao.com.tw/exhibitorservicefiles/products/DAUIROBOT2022_236488_99873_L.jpg)
 本產品設計一組可形變的桿體，此桿體可壓入縷空螺絲內部，為達面接觸的組裝目標，使用緊配的組裝方式置入縷空螺絲內部；由於此桿體和螺絲是分別加工，提升安裝感測器時的便利性<br>
 
-* 基於虛擬實境與擴增實境之上下肢協同復健外骨骼系統 (**國立中興大學**)
+* 基於虛擬實境與擴增實境之上下肢協同復健外骨骼系統 (**國立中興大學**)<br>
 ![](https://storage.googleapis.com/www.taiwantradeshow.com.tw/product/202209/T-38472980-S.jpg)
 
 * 運用眼動追蹤與人工智慧視覺辨識之3D列印義肢手臂 (**南台科大**)
