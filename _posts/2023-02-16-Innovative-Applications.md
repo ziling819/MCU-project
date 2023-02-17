@@ -233,6 +233,10 @@ Invisible Cities的VR巴士之旅提供整合視覺、聽覺、嗅覺、體感�
 ---
 ## Robots
 
+### Tesla Optimus
+<iframe width="992" height="558" src="https://www.youtube.com/embed/_HjGppyK0Po" title="Elon Musk 的機器人好笨拙？ 究竟特斯拉 Optimus 厲害在哪裡？AI Day 大揭密" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 ### Softcream Robot
 <iframe width="821" height="462" src="https://www.youtube.com/embed/4ejezpAcHZs" title="Softcream robot by Connected Robotics at HCJ 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
