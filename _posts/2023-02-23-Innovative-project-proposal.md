@@ -41,7 +41,8 @@ This homework is to propose an innovative project and describe the key features,
 ### 系統方塊圖
 ![](https://github.com/ziling819/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
 ### 參考 
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/bdKcid21p6I" title="我獲得了一台「神級機器人」？！從破爛機器人到最強機器人的成長過程！【Roblox 機械方塊】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="1128" height="635" src="https://www.youtube.com/embed/qTxvUu-NBbU" title="MCU微控制器應用-ARM操作步進電機控制線性滑軌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 
 
