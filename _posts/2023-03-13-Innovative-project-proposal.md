@@ -44,6 +44,13 @@ This homework is to propose an innovative project and describe the key features,
 ### 系統方塊圖
 ![](https://github.com/ziling819/MCU-project/blob/main/_data/%E5%9C%96%E7%89%871.png?raw=true)
 ![](<iframe width="1128" height="635" src="https://www.youtube.com/embed/qTxvUu-NBbU" title="MCU微控制器應用-ARM操作步進電機控制線性滑軌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+
+### 手機藍牙遙控, 或WebUI 遙控(利用手機熱點WiFi連線)
+https://user-images.githubusercontent.com/126163590/232207368-21e5e3f6-f348-420e-820a-8ba175787c0a.mp4
+https://user-images.githubusercontent.com/126163590/232207377-3c593a41-bd94-4ec0-9e35-4ab81a8a13b3.mp4
+
+
+
 ### 參考 
 
 <iframe width="1128" height="635" src="https://www.youtube.com/embed/qTxvUu-NBbU" title="MCU微控制器應用-ARM操作步進電機控制線性滑軌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
