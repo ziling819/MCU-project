@@ -41,14 +41,14 @@ This project is to implement a bluetooth remote controlled robotcar.
 <iframe width="320" height="560" src="https://www.youtube.com/embed/3FaQAwD77h4" title="手機藍牙遙控, 或WebUI 遙控(利用手機熱點WiFi連線)2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 程式碼
-1. // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
-// ESP32 Webserver to receive commands to control RoboCar
+1. // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz(設定頻率1K)
+// ESP32 Webserver to receive commands to control RoboCar(接收control RoboCar的指令)
 
 #include <WiFi.h>
 #include <WebServer.h>
 #include <ESP32MotorControl.h> 
 
-// DRV8833 pin connection
+// DRV8833 pin connection(定義腳位)
 #define IN1pin 16  
 #define IN2pin 17 
 #define IN3pin 18 
@@ -63,11 +63,11 @@ ESP32MotorControl motor;
 
 
 /* Set these to your desired credentials. */
-const char *ssid = "Your_SSID";
-const char *password = "Your_Password";
+const char *ssid = "Your_SSID";(設定自己熱點名字)
+const char *password = "Your_Password";(輸入熱點密碼)
 
 WebServer server(80); // Set web server port number to 80
-
+(設定如何移動)
 const String HTTP_PAGE_HEAD = "<!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\"/><title>{v}</title>";
 const String HTTP_PAGE_STYLE = "<style>.c{text-align: center;} div,input{padding:5px;font-size:1em;}  input{width:90%;}  body{text-align: center;font-family:verdana;} button{border:0;border-radius:0.6rem;background-color:#1fb3ec;color:#fdd;line-height:2.4rem;font-size:1.2rem;width:100%;} .q{float: right;width: 64px;text-align: right;} .button1 {background-color: #4CAF50;} .button2 {background-color: #008CBA;} .button3 {background-color: #f44336;} .button4 {background-color: #e7e7e7; color: black;} .button5 {background-color: #555555;} </style>";
 const String HTTP_PAGE_SCRIPT = "<script>function c(l){document.getElementById('s').value=l.innerText||l.textContent;document.getElementById('p').focus();}</script>";
