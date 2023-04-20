@@ -75,7 +75,9 @@ const String HTTP_PAGE_BODY= "</head><body><div style='text-align:left;display:i
 const String HTTP_PAGE_FORM = "<form action=\"/cmd1\" method=\"get\"><button class=\"button1\">Forward</button></form></br><form action=\"/cmd2\" method=\"get\"><button class=\"button2\">Backward</button></form></br><form action=\"/cmd3\" method=\"get\"><button class=\"button3\">Right</button></form></br><form action=\"/cmd4\" method=\"get\"><button class=\"button4\">Left</button></form></br><form action=\"/cmd5\" method=\"get\"><button class=\"button5\">Stop</button></form></br></div>";
 const String HTTP_WEBPAGE = HTTP_PAGE_HEAD + HTTP_PAGE_STYLE + HTTP_PAGE_SCRIPT + HTTP_PAGE_BODY + HTTP_PAGE_FORM;
 const String HTTP_PAGE_END = "</div></body></html>";
+(以上為接上網路設定)
 
+(控制小車方向和速度，若失去連接超過2000ms後會停止)
 // Current time
 unsigned long currentTime = millis();
 // Previous time
