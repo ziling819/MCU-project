@@ -4,6 +4,8 @@ title: IoT Thinkspeak
 category: [Example]
 tags: [jekyll]
 ---
+## 系統方塊圖
+![](https://github.com/ziling819/MCU-project/blob/main/_data/159.png?raw=true)
 ## humidity
 ![](https://github.com/ziling819/MCU-project/blob/main/_data/12344.png?raw=true)
 
