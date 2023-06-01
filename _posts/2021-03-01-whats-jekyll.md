@@ -18,12 +18,12 @@ tags: [jekyll]
 #define DHTPIN 19     // NodeMCU pin D6 connected to DHT11 pin Data
 DHT dht(DHTPIN, DHT11, 15);
 
-const char* ssid     = "PinLe的iPhone";
-const char* password = "00001111";
+const char* ssid     = "x";
+const char* password = "000000005";
 
 
 const char* host = "api.thingspeak.com";
-const char* thingspeak_key = "6BQ13YRF3BJ97VZR";
+const char* thingspeak_key = "7Z2GSN3HKGY0M6BB";
 
 void turnOff(int pin) {
   pinMode(pin, OUTPUT);
